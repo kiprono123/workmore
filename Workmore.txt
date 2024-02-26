@@ -1,0 +1,7 @@
+1. Finding what other job application are out there.
+2. How their websites are designed; its fonts, design layout, responsive design, submission links and also look at some features they are missing
+3. I will start by creatin a simple home page for my workmore app and a simple style css sheet which i will update as i go.
+4. Things I need i a : 
+ # a working laptop
+ # internet
+ # My research on other job finding websites
